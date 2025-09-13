@@ -5,8 +5,10 @@ using UnityEngine;
 public class HelloWorld : MonoBehaviour 
 {
      void Start() {
-        Debug.Log("Presently learning Git right now!");
+	Debug.Log("Hello World!);        
 
-        Debug.Log("Testing test branches.");
+	#Debug.Log("Presently learning Git right now!");
+
+        #Debug.Log("Testing test branches.");
      }
 } 

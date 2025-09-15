@@ -7,7 +7,7 @@ public class HelloWorld : MonoBehaviour
      void Start() {
 	Debug.Log("Hello World!);        
 
-	Debug.Log("Presently learning Git right now!");
+	Debug.Log("Returning to main branch after testing branches!");
 
     #Debug.Log("Testing test branches.");
      }

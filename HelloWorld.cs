@@ -11,4 +11,9 @@ public class HelloWorld : MonoBehaviour
 
     #Debug.Log("Testing test branches.");
      }
+     
+     void Update() 
+     {
+          
+     }
 } 
